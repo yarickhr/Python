@@ -7,3 +7,6 @@ z = "green"
 print (x ,z)
 z = x
 print (x, z)
+
+route = 266
+print(route, type(route)) #выведет 266, <class 'int'> (тип данных, класс)
